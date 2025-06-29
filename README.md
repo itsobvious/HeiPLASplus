@@ -8,7 +8,7 @@ The dataset consists of 1438 adjectve-noun pairs annotated manually with an attr
 
 
 As this data is derived from Princeton WordNet 3.0, its use is subject to
-the WordNet license (which is included in the LICENSE file).
+the WordNet license (which is included in the LICENSE-Wordnet file).
 
 [1] Hartung, Matthias (2015): Distributional Semantic Models of Attribute
 Meaning in Adjectives and Nouns. Ph.D. Dissertation: Computational
